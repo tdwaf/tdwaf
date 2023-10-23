@@ -4,7 +4,7 @@
 
 <img align="right" src="assets/gifs/octocat.gif" width="150">
 
-<p align="center"> My name's Tyler! I'm Currently working in the automation side of DevOps within a financial services company. My bread and butter is writing applications and workflows to automate our CI/CD processes by writin. In my free time, I like to play video games, as well as hiking. I'm also learning Japanese 🗻</p>
+<p align="center"> My name's Tyler! I'm Currently working in the automation side of DevOps within a financial services company. My bread and butter is writing applications and workflows to automate our CI/CD processes. In my free time, I like to play video games, as well as hiking. I'm also learning Japanese 🗻</p>
 
 <br />
 
