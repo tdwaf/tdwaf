@@ -8,5 +8,5 @@
 
 <br />
 
-<p align="center"> Most of the activity you'll see on my page will be related to my Japanese study but I mod games from time to time. </p>
+<p align="center"> Most of the activity you'll see on my page will be related to my Japanese study but I code other things from time to time. </p>
 
