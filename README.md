@@ -1,4 +1,5 @@
 <span align="center">
+    <img src="assets/gifs/hi.gif" width="30px" >
     <h1> <img src="assets/gifs/hi.gif" width="30px" > Hi There! </h1>
 </span>
 
