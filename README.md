@@ -1,6 +1,5 @@
 <span align="center">
-    <img src="assets/gifs/hi.gif" width="30px" >
-    <h1> <img src="assets/gifs/hi.gif" width="30px" > Hi There! </h1>
+    <h2> <img src="assets/gifs/hi.gif" width="30px" > Hi There! </h2>
 </span>
 
 <img align="right" src="assets/gifs/octocat.gif" width="150">
