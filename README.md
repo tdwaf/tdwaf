@@ -11,11 +11,13 @@ public class Tyler {
     public Tyler() {
         this.role = "Software Engineer";
         this.hobbies = Set.of(
-            "Playing Video Games", 
+            "Playing Video Games",
+            "Learning Japanese" 
             "Growing peppers",
             "Baking", 
             "Amateur Astronomy",  
-            "Learning Japanese");
+            "Hiking",
+            "Trail Running");
     }
 }
 ```
