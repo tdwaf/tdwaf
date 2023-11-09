@@ -23,7 +23,7 @@ public class Tyler {
 
 ---
 
-Most of the activity you'll see on my page will be related to my Japanese study and algorithm practice for competitive programming, however, I do code other things from time to time; typically related to my hobbies.
+Most of the activity you'll see on my page will be related to my Japanese study, however, I do code other things from time to time; typically related to my hobbies.
 
 ### Programming languages
 
