@@ -14,8 +14,7 @@ public class Tyler {
             "Playing Video Games", 
             "Growing peppers",
             "Baking", 
-            "Amateur Astronomy", 
-            "Competitive Programming", 
+            "Amateur Astronomy",  
             "Learning Japanese");
     }
 }
