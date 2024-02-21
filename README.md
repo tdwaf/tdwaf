@@ -15,7 +15,7 @@ public class Tyler {
             "Learning Japanese" 
             "Growing peppers",
             "Baking", 
-            "Amateur Astronomy",  
+            "Rock Climbing",  
             "Hiking",
             "Trail Running");
     }
