@@ -28,11 +28,11 @@ Most of the activity you'll see on my page will be related to my Japanese study,
 
 ### Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,powershell)](https://skillicons.dev)
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,spring,nodejs,kubernetes,docker,redis,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,spring,nodejs,svelte,kubernetes,docker,redis,githubactions,gradle,redis,supabase)](https://skillicons.dev)
 
 ### What I'm currently working on
 
