@@ -11,19 +11,15 @@ public class Tyler {
         this.role = "Software Engineer";
         this.hobbies = Set.of(
             "Playing video games",
-            "Studying Japanese" 
-            "Hiking & trail running",
-            "Rock climbing",
-            "Growing peppers");
+            "Rock Climbing",
+            "Trail Running",
+            "Skiing",
+            "Studying Swedish");
     }
 }
 ```
 
 ---
-
-> [!NOTE]
-> The vast majority of activity you'll see on my page will be related to my Japanese studies; however, I do work on other things, typically related to my hobbies.
-
 
 ## Technologies
 
@@ -41,10 +37,3 @@ public class Tyler {
 ## Learning
 
 [![My Skills](https://skillicons.dev/icons?i=rust,kotlin)](https://skillicons.dev)
-
-## What I'm currently working on
-
-```
-- 🗻 Currently studying Japanese!
-- 🌱 I'm currently learning Rust and Kotlin for fun (Rust for enjoyment and making keyboards, and kotlin for android development).
-```
