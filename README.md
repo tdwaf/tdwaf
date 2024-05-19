@@ -13,7 +13,8 @@ public class Tyler {
             "Playing video games",
             "Rock Climbing",
             "Trail Running",
-            "Skiing");
+            "Skiing",
+            "Studying Japanese");
     }
 }
 ```
