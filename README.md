@@ -6,4 +6,6 @@
 
 <br/>
 
+### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=java,gradle,spring,ts,nodejs,svelte,tailwind,python,flask,powershell,aws,dynamodb,kubernetes,docker,githubactions,linux,git)](https://skillicons.dev)
