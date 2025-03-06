@@ -6,6 +6,29 @@
 
 <br/>
 
-### Skills
+## Skills
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![My Skills](https://skillicons.dev/icons?i=java,gradle,spring,ts,nodejs,svelte,tailwind,python,flask,powershell,aws,dynamodb,kubernetes,docker,githubactions,linux,git)](https://skillicons.dev)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,ts,python,powershell)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![Tools](https://skillicons.dev/icons?i=spring,flask,nodejs)](https://skillicons.dev)
+
+### Currently Learning
+[![Learning](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud & DevOps
+[![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions)](https://skillicons.dev)
+
+### Development Tools
+[![Tools](https://skillicons.dev/icons?i=git,gradle,bash,linux)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
