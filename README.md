@@ -2,7 +2,9 @@
 
 ---
 
-### Software engineer currently working in automation devops
+# 👋 &nbsp;
+
+I'm a software engineer currently working in automation devops. I write code that automates the deployment of applications to different environments. My main language is Java, but I work with a variety of tools daily. In my free time, I enjoy building cli applications and tinkering with robotics and microcontrollers. I'm also in the early stages of setting up a home lab to experiment with different technologies.
 
 <br/>
 
